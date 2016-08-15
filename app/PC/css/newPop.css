@@ -1,0 +1,65 @@
+.new_pop{border-radius:4px;}
+.new_pop .new_pop_head{background: #f7f7f7;height:38px;text-align: center;line-height:38px;border-bottom: 1px solid #dbdbdb;}
+.new_pop .Init_objection{width:420px;}
+.new_pop_content{padding:26px 30px 30px 30px;background:#fff;width:360px;}
+.describe{line-height:24px;font-size:16px;padding-bottom: 10px;color:#353535;}
+.describe .apply_des{color:#a3a3a3;font-size:14px;}
+.describe .cue_de{display:block;text-align: center;}
+.describe .cue_success,.describe .cue_fail{width:24px;height:24px;display:inline-block;margin-left:165px;margin-bottom: 15px;}
+.describe .cue_success{background: url(../images/prompt_icon_01.png) no-repeat;}
+.describe .cue_fail{background: url(../images/prompt_icon_02.png) no-repeat;}
+.describe .pro_attention{color:#f17273;display:block;margin-top:15px;text-align: center;font-size:13px;}
+.sel_role{margin-top:20px;}
+.sel_role input{vertical-align: middle;}
+.newPop_btn{margin-top:30px;overflow: hidden;}
+.newPop_btn .pop_cancel,.newPop_btn .pop_sure{width:158px;height:34px;text-align: center;line-height: 34px;border-radius: 4px;float: left;}
+.newPop_btn .pop_cancel{border:1px solid #e0e0e0;background:#fff;color:#505050;margin-left:8px;margin-right:15px;}
+.newPop_btn .know_btn{width:296px;height:34px;line-height: 34px;border-radius:4px;text-align: center;color:#fff;margin:0 auto;}
+
+.new_pop .again_ps{width:460px;}
+.password_staff{padding:30px 45px 30px 45px;background:#fff;width:370px;}
+.password_staff .imports_mes{margin-top:20px;}
+.password_staff .imports_mes span{color:#898989;width:70px;display:inline-block;text-align: right;}
+.password_staff .imports_mes input[type="text"]{width:278px;height:28px;border:1px solid #dcdcdc;color:#000;}
+.password_staff .validate_code{overflow: hidden;}
+.password_staff .validate_code span,.password_staff .validate_code input,.password_staff .validate_code p{float:left;}
+.password_staff .validate_code input[type="text"]{width:178px;border:1px solid #ff1a21;margin-right:11px;margin-left:3px;}
+.password_staff .validate_code p{width:90px;height:30px;background: #cbcbcb;color:#f1f1f1;line-height: 30px;}
+.password_staff .validate_code span{height:28px;line-height: 28px;}
+.error_code{color:#ff221a;margin-left:78px;display:inline-block;margin-top:10px;}
+.only_sel input[type='radio']{width:16px;height:16px;vertical-align: middle;}
+.only_sel span.selects{text-align: left;display:inline-block;}
+.only_sel{position: relative;}
+.only_sel span.selects_limit{width:30px;}
+.only_sel input.limit_money{margin-left:45px;}
+.imports_mes input[type='text'].limit_imp{width:110px;}
+.only_sel .limit_import{position:absolute;width:114px;height:28px;border:1px solid #dddddd;right:18px;top:-6px;}
+.only_sel .limit_import input[type='text']{border:none;width:80px;height:28px;float:left;}
+.only_sel .limit_import span{margin-top:6px;margin-right:5px;display:inline-block;width:24px;}
+
+.set_cm{width:500px;}
+.cm_invoice{padding:20px 36px 30px 36px;background: #fff;width:428px;}
+.com_des{text-align: center;}
+.com_des span{color:#ffa712;}
+
+.cm_invoice .imports_mess{margin-top:20px;}
+.cm_invoice .imports_mess span{color:#898989;width:90px;display:inline-block;text-align: right;}
+.cm_invoice .imports_mess input[type='text'],.cm_invoice .imports_mess select{width:325px;border:1px solid #dddddd;height:28px;}
+.area_place{overflow: hidden;}
+.cm_invoice .area_place select{width:100px;height:28px;border:1px solid #ddd;float: left;}
+.cm_invoice .area_place select.area_city{margin-left:15px;margin-right:11px;}
+.cm_invoice .area_place span{float: left;height:28px;line-height: 28px;margin-right:4px;}
+span.combine_att{color:#868686;display:inline-block;margin-left:90px;margin-top:10px;}
+.cm_invoice .imports_mess input[type='radio']{vertical-align: middle;margin-left:90px;}
+.cm_invoice .imports_mess span.combine_address{width:200px;text-align: left;}
+.newPop_btn p.pop_combine{margin-left:50px;margin-right:20px;}
+
+.cm_invoice .imports_mess_money{margin-top:20px;position: relative;}
+.cm_invoice .imports_mess_money span{width:120px;color:#b0b0b0;}
+.cm_invoice .imports_mess_money input[type='radio']{vertical-align: middle;}
+.cm_invoice .imports_mess_money input[type='radio'].restrict_im{margin-left:40px;}
+.cm_invoice .imports_mess_money span.batch_set{width:30px;text-align: left;}
+.cm_invoice .imports_mess_money .limit_im{width:118px;height:28px;border:1px solid #dcdcdc;position: absolute;right:14px;top:-8px;}
+.limit_im input[type='text']{width:90px;border:none;height:100%;}
+/*.limit_im span{height:28px;line-height: 28px;display:inline-block;}*/
+.set_money{width:460px;}

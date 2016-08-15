@@ -1,0 +1,21 @@
+/* recharge */
+.nav_content li .corporation_staff{ background-image:url(../images/corporation_staff.png);}
+
+.pay_money{height: 60px;line-height: 60px;font-size: 18px;}
+.pay_money span{font-size: 24px;color: #fda714;}
+.pay_money .pay_back{display: inline-block;width: 54px;height: 30px;line-height: 30px;background-color: #8ca1b4;font-size: 14px;color: #fff;text-align: center;border-radius: 4px;margin-left: 10px;cursor: pointer;}
+
+.recharge_box{ border:1px solid #eaeaea; padding:40px 54px; color: #909090;}
+.recharge_box .pay_w{color: #434343;font-size: 16px;}
+.pay_way{ margin: 30px 0;}
+.pay_way li{float: left;width: 200px;height: 50px; box-sizing:border-box;border: 1px solid #e5e5e5;margin-right: 20px; background: no-repeat center center; cursor:  pointer; }
+.pay_way li.pay_check{ border: 2px solid #fda714;}
+.pay_way li:nth-of-type(1){ background-image: url("../images/pay_alipay.png");}
+.pay_way li:nth-of-type(2){ background-image: url("../images/pay_unionpay.png");}
+
+.pay_next{
+    font-size: 16px;
+    padding: 9px 45px;
+}
+
+

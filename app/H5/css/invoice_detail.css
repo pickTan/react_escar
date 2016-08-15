@@ -1,0 +1,15 @@
+.nav_content li.account_current .stamp_message{background:url(../images/invoice_message_icon.png) no-repeat;}
+.invoice_substance{width:928px;height:185px;border:1px solid #dedede;}
+.invoice_substance .invoice_sub_head{height:30px;width:908px;padding-left:20px;background:#f9f9f9;line-height:30px;}
+.invoice_sub_head span{color:#0e6dc7;float:right;margin-right:20px;}
+.invoice_sub_content{padding:25px 30px;}
+.invoice_sub_content ul{width:432px;float:left;}
+.invoice_sub_content ul li{height:26px;}
+.invoice_sub_content li span{width:100px;text-align:right;color:#868686;display:inline-block;}
+.rec_message{border-top:1px solid #e6e6e6;margin-top:20px;}
+.rec_message li{width: 928px; border: 1px solid #e6e6e6;overflow: hidden;display: inline-block;borders-bottom: none;border-top:none;}
+.rec_message li:first-child{height:38px;line-height:38px;width:908px;padding-left:20px;background:#f9f9f9;}
+.rec_message li:last-child {border-bottom: 1px solid #e6e6e6;}
+.rec_message li span{display: inline-block;  padding: 4px 10px;width: 190px;  text-align: center;  vertical-align: middle;  float: left;border-left: 1px solid #e6e6e6;  height: 34px;  line-height: 34px;  font-size: 12px;}
+.rec_message li span:first-child{width:54px;}
+.rec_message .rec_title{background:#f9f9f9;}

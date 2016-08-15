@@ -1,0 +1,27 @@
+/* recharge */
+.nav_content li .corporation_staff{ background-image:url(../images/corporation_staff.png);}
+.nav_content li .res_record{ background-image:url(../images/recharage_msgT.png);}
+
+.search_box{background-color: #f8f8f8;padding: 17px 16px 17px 14px;}
+.search_box li{float: left;margin-right: 20px;}
+.search_box span{ font-size: 14px;}
+.search_box .recharge_inp{width: 98px;height: 28px;border: 1px solid #dcdcdc;margin-left: 5px;padding-right: 16px;}
+.search_box .recharge_inpSel{background: url("../images/recharge_sel.png") no-repeat 82px center #fff;}
+.search_box .record_num{width: 108px;padding-right: 10px;}
+
+.search_box .search_btn{width: 145px;height: 30px;text-align: right;border-left: 1px solid #e7e7e7;margin-right: 0;}
+.search_box .recharge_search{padding: 10px 46px;font-size: 16px;margin-top: -4px;display: inline-block;cursor: pointer;}
+
+.form-group{float:left;border: 1px solid #dcdcdc;}
+.input-group{position:relative;display: table;border-collapse: separate;}
+.form-group .control-label{margin-top:5px;}
+.form-group .control-label,.form-group .date,.rch_from{float:left;}
+.rch_from{margin:5px 10px 0;}
+.form-group .form-control{width:100px;height:30px;padding:0;}
+.form-group .form-control,.form-group .input-group-addon { background: none; border: 0;  border-radius: 0;  box-shadow: none;  }
+.form-group span.input-group-addon {  border-left: none;height:24px;padding: 6px 5px; border-left: 1px solid #dcdcdc; }
+
+.input-group .input-group-addon span.glyphicon-th {  width: 15px;  height: 13px;  background: url("../images/usecar_calendar.png") no-repeat center center;  display:inline-block;  }
+
+
+

@@ -1,0 +1,37 @@
+/*public_content部分*/
+.nav_content .account_current .corporation_staff{background:url(../images/corpor_staffs_bg.png) no-repeat;}
+.author_right{padding:20px 15px;background:#f9f9f9;}
+.author_right select,.author_right input{width:98px;height:28px;border:1px solid #dedede; margin-right: 30px;}
+.author_right input{width:265px;}
+.author_right em{width:1px;height:30px;background:#e9e9e9;display:inline-block;vertical-align: middle;}
+.author_right p{width:128px;height:30px;float:right;line-height:28px;font-size:16px;margin-right:150px;cursor:pointer;}
+
+.staff_tab{margin-top:20px;}
+.public_tab .staff_tab{border-top:1px solid #e6e6e6;}
+.public_tab .staff_tab li {width: 928px; border: 1px solid #e6e6e6;overflow: hidden;display: inline-block;border-bottom: none;border-top:none;}
+/*.public_tab .staff_tab li:first-child{height:38px;line-height:38px;width:908px;padding-left:20px;background:#f9f9f9;}*/
+.public_tab .staff_tab li:last-child {border-bottom: 1px solid #e6e6e6;}
+.staff_tab li span{display: inline-block;  padding: 5px 10px;width: 113px;  text-align: center;  vertical-align: middle;  float: left;border-left: 1px solid #e6e6e6;  height: 24px;  line-height: 24px;  font-size: 12px;}
+.staff_tab li span:first-child{width:20px;}
+.staff_tab li span:first-child input{vertical-align: middle;margin-top:6px;}
+.staff_tab li span.staff_tab_num{width:94px;}
+.staff_tab li span.staff_right{width:80px;}
+.staff_tab li span.staff_operate{color:#7093cb;}
+.public_tab .staff_tab li:first-child{height:38px;line-height:38px;width:908px;padding-left:20px;background:#f9f9f9;}
+.staff_tab li.staff_title{background:#f9f9f9;}
+.staff_clicks{float:right;}
+.staff_clicks span.download_mould{border-left:none;color:#5476b5;}
+.bulk_load,.add_staff,.bulk_install{float:right;height:26px;background:#8da2b5;line-height:26px;color:#fff;text-align:center;margin-top:5px;}
+.bulk_load,.add_staff{width:90px;}
+.add_staff{margin-left:10px;margin-right:10px;}
+.bulk_install{width:138px;margin-right:20px;}
+
+/* 企业员工表格 */
+.employeeList .table_one{width: 42px;}
+.employeeList .table_num{width:80px;}
+.employeeList .table_recTime,.employeeList  .table_seveTime{width: 120px;line-height: 36px;font-size: 14px;}
+.employeeList .table_money{width:118px;}
+.employeeList .table_per,.employeeList .table_way,.employeeList .table_state{width:144px;}
+.employeeList .table_ID{width:136px;}
+.employeeList .record_tableH .table_state,.employeeList .record_tableM .table_state{border-right: none;}
+.employeeList .record_tableM .table_state{ color: #2365aa; cursor: pointer;}

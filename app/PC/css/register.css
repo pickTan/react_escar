@@ -1,0 +1,19 @@
+.head{border-bottom: 2px solid #fea805;}
+.register_banner{height:258px;}
+.register_banner .register_images{width:1200px;height:258px;background: url(../images/register-Banner3.jpg) no-repeat;}
+.register{margin-top: 20px;}
+.register-title{height:40px;line-height:40px;position: relative;text-align: center;color:#fea805;font-size:25px;font-family: '微软雅黑';}
+.register-title em{width:695px;height:1px;background: url(../images/register-line.jpg) no-repeat;position: absolute;left:50%;
+    margin-left:-347.5px;top:20px;}
+.public_mains{width:1200px;margin:auto;}
+.register_content .register_Name,.register_content .register_phone,.register_content .register_test,.register_content .register_psd{margin-top:20px;margin-left:380px;width:678px;}
+.register_content .register_agree{margin-top:20px;margin-left:480px;width:300px;height:30px;}
+.register_test p{display:inline-block;width:118px;height:42px;background: #cbcbcb;line-height:42px;text-align:center;color:#fff;font-size:16px;padding:0;}
+.register_content .register_submit{margin-top:20px;margin-left:480px;margin-bottom:60px;width:320px;height:44px;line-height:44px;font-size:18px;}
+.register_submit input{width:320px;height:44px;text-align: center;line-height: 44px;background: #fea805;border-radius:5px;color:#fff;font-size:16px;}
+.register_content input{width:318px;height:42px;border:1px solid #dddddd;line-height:42px;}
+.register_content input.register_yanzheng{width:187px;}
+.register_content span{width:100px;height:42px;line-height:42px;text-align:right;color:#888888;font-size:16px;display:inline-block;}
+.register_content span.register_huoqu{width:118px;height:44px;background: #cbcbcb;text-align:center;color:#fff;cursor:pointer;
+line-height: 44px;}
+.register_agree input{height:30px;width:30px;border:none;line-height:30px;vertical-align: middle;}

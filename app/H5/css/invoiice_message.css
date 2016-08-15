@@ -1,0 +1,45 @@
+.nav_content li.account_current .stamp_message{background:url(../images/invoice_message_icon.png) no-repeat;}
+.invoice_tabs{border-bottom: 2px solid #eaeef1;height:40px;}
+.invoice_tabs li{width:310px;height:40px;line-height:40px;position:relative;text-align:center;float:left;color:#393939;font-size:16px;}
+.invoice_tabs li.invoice_tab_current{color:#ffa404;}
+.invoice_tabs li.invoice_tab_current em{width:310px;height:8px;background:url(../images/invoice_bg.png) no-repeat;position:absolute;bottom:-1px;left:0;}
+.invoice_tabs li:first-child span{width:1px;height:18px;background:#e7e7e7;position:absolute;right:-1px;top:10px;}
+.invoice_right{padding:20px 15px;background:#f9f9f9;margin-top:20px;}
+
+.invoice_right em{width:1px;height:30px;background:#e9e9e9;display:inline-block;vertical-align: middle;}
+.invoice_right p{width:128px;height:28px;float:right;line-height:28px;font-size:16px;margin-right:25px;cursor:pointer;}
+.invoice_tab{margin-top:20px;}
+.public_tab .invoice_tab{border-top:1px solid #e6e6e6;}
+.public_tab .invoice_tab li {width: 928px; border: 1px solid #e6e6e6;overflow: hidden;display: inline-block;borders-bottom: none;border-top:none;}
+.public_tab .invoice_tab li:first-child{height:38px;line-height:38px;width:908px;padding-left:20px;background:#f9f9f9;}
+.public_tab .invoice_tab li:last-child {border-bottom: 1px solid #e6e6e6;}
+.invoice_tab li span{display: inline-block;  padding: 4px 10px;width: 126px;  text-align: center;  vertical-align: middle;  float: left;border-left: 1px solid #e6e6e6;  height: 34px;  line-height: 34px;  font-size: 12px;}
+.invoice_tab li span:first-child{width:14px;}
+.invoice_tab li input{vertical-align: middle;margin-top:10px;}
+.invoice_tab .make_invoice{width:90px;height:26px;background:#8da2b5;float:right;line-height:26px;text-align:center;margin-top:5px;margin-right:20px;cursor:pointer;}
+.invoice_tab .invoice_title{background:#f9f9f9;}
+
+
+ /* 待开发票表格 */
+.invoiceList .table_one{width: 42px;}
+.invoiceList .table_num{width:60px;}
+.invoiceList .table_recTime{width: 190px;}
+.invoiceList .table_money{width:220px;}
+.invoiceList .table_per,.invoiceList .table_way{width:138px;}
+.invoiceList .table_ID{width:140px;}
+.invoiceList .record_tableH .table_way,.invoiceList .record_tableM .table_way{border-right: none;}
+.invoiceList .record_tableM .table_recTime{line-height: 36px;font-size: 14px; color: #2365aa;}
+
+
+
+.form-group{float:left;width:130px;}
+.tss_from{width:190px;}
+.input-group{position:relative;display: table;border-collapse: separate;width:126px;  border: 1px solid #dcdcdc;}
+.form-group .control-label{margin-top:5px;}
+.form-group .control-label,.form-group .date,.rch_from{float:left;}
+.rch_from{margin:5px 10px 0;}
+.form-group .form-control{width:100px;height:30px;padding:0;border-right:none;float:left;display:inline-block;border:none;}
+.form-group .form-control,.form-group .input-group-addon { background: none; border-radius: 0;  box-shadow: none;}
+.form-group span.input-group-addon {  border-left: none;height:18px;float:left;border:none;border-left:1px solid #dcdcdc;padding: 6px 0;   }
+.cut_line{margin-left:16px;}
+.input-group .input-group-addon span.glyphicon-th {  width: 15px;  height: 13px;  background: url("../images/usecar_calendar.png") no-repeat center center;  float:left; margin-left:4px; }

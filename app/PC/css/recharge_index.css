@@ -1,0 +1,23 @@
+/* recharge */
+.nav_content li .corporation_staff{ background-image:url(../images/corporation_staff.png);}
+.recharge_way{height: 30px;border-bottom: 2px solid #eaeff5;margin-bottom: 8px;}
+.recharge_way li{float: left;width: 310px;height: 20px;text-align: center;}
+.recharge_way span{display: inline-block;height: 100%;padding-left: 28px;font-size: 16px; cursor: pointer;}
+.way_online{border-right: 1px solid #e7e7e7;}
+.way_online span{ background: url("../images/recharge_ onlineT.png") no-repeat;}
+.way_transfer span{ background: url("../images/recharge_ transfer.png") no-repeat;}
+.way_onlineT{ position:relative; color: #fda714;}
+.way_onlineT:after{content: "";position: absolute;left: 0;bottom: -12px;width: 310px;height: 8px;background: url("../images/recharge_ wayBg.png") no-repeat;}
+
+.account_money{ height: 60px; line-height: 60px; font-size: 18px;}
+.account_money span{font-size: 24px;color: #fda714;}
+
+.recharge_box{ border:1px solid #eaeaea; padding:40px 54px; color: #909090;}
+.recharge_money{position: relative;display: inline-block;}
+.recharge_money span{ position:relative; font-size: 16px;}
+.recharge_money span:after{content: "元";position: absolute;right: -184px;top: 0;width: 22px;height: 22px;}
+.recharge_money input{position:relative;width: 180px;height: 40px;border: 1px solid #dcdcdc;background: none;font-size: 18px;margin-left: 10px;padding: 0 28px 0 10px;}
+.recharge_money input:after{ content: ""; position: absolute; right: 0; top: 0;}
+
+.recharge_tip{height: 56px;line-height: 56px;margin: 0 0 8px 82px;}
+.recharge_sure{font-size: 16px;margin-left: 82px;padding: 10px 58px;cursor: pointer;}

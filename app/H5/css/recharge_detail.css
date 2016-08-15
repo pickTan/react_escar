@@ -1,0 +1,17 @@
+/* recharge */
+.nav_content li .res_record{ background-image:url(../images/recharage_msgT.png);}
+.nav_content li .corporation_staff{ background-image:url(../images/corporation_staff.png);}
+
+.detail_box{ border:1px solid #dcdcdc;}
+.detail_boxTop{background-color: #f8f8f8;padding: 0 30px 0 20px;}
+.detail_boxTop li{float: left; height: 30px; line-height: 30px; }
+.detail_boxTop li.complain{float: right; color: #2365aa; cursor: pointer;}
+
+.detail_bottom .detail_bottomL,.detail_bottom .detail_bottomR{float: left; width: 50%;}
+.detail_bottomL li,.detail_bottomR li{line-height: 28px;}
+.detail_bottomL span,.detail_bottomR span{margin-left: 20px; color: #373737;}
+.detail_bottom{ padding: 22px 58px; color: #878787;}
+.detail_num em{margin-left: -15px;}
+.detail_num span{ color:#2365aa;}
+.detail_third em{margin-left: -40px;}
+

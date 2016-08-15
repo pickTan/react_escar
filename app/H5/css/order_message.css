@@ -1,0 +1,31 @@
+/*.nav_content .corporation_staff{background:url(../images/corporation_staff.png) no-repeat;}*/
+.nav_content .account_current .order_message{background:url(../images/order_message_icon.png) no-repeat;}
+.order_right{padding:20px 15px;background:#f9f9f9;}
+/*.order_right input{width:265px;height:28px;border:1px solid #dedede;}*/
+.order_right em{width:1px;height:30px;background:#e9e9e9;display:inline-block;vertical-align: middle;margin-left: 20px;}
+.order_right input{width:220px;height:28px;border:1px solid #dedede; margin-right: 20px;}
+.order_right span:nth-of-type(2){ margin-left: 15px;}
+.order_right p{width:128px;height:28px;float:right;line-height:28px;font-size:16px;margin-right:30px;cursor:pointer;}
+.public_tab .order_tab{border-top:1px solid #e6e6e6;margin-top:20px;}
+.public_tab .order_tab li:first-child span{background:#f9f9f9;}
+.public_tab .order_tab li {width: 928px; border: 1px solid #e6e6e6;overflow: hidden;display: inline-block;borders-bottom: none;border-top:none;}
+.public_tab .order_tab li:last-child {border-bottom: 1px solid #e6e6e6;}
+.order_tab li span{display: inline-block;  padding: 5px 10px;width: 66px;  text-align: center;  vertical-align: middle;  float: left;  border-left: 1px solid #e6e6e6;  height: 34px;  line-height: 34px;  font-size: 12px;}
+.public_tab li span:first-child{  border-left: none;width:26px;}
+.public_tab .order_tab .operate{color:#000;}
+.order_tab li span.book_account{width:118px;}
+.order_tab li span.book_time{width:88px;padding:4px 10px;height:36px;line-height:16px;}
+.order_tab li span.book_times{line-height:36px;width:88px;}
+.order_tab li span:last-child{color:#4f7dbc;padding:5px 4px;width:81px;}
+
+/* 订单管理表格 */
+.orderList .table_one{width: 40px;}
+.orderList .table_num{width:162px;}
+.orderList .table_recTime{width:96px;}
+.orderList .table_money{width:164px;}
+.orderList .table_per,.orderList .table_way,.orderList .table_state{width:90px;}
+.orderList .table_ID{width:80px;}
+.orderList .table_seveTime{width:116px;}
+.orderList .record_tableH .table_seveTime,.orderList .record_tableM .table_seveTime{border-right: none;}
+.orderList .record_tableM .table_recTime{font-size: 12px;line-height: 18px;}
+.orderList .record_tableM .table_seveTime{font-size: 14px;line-height:36px; color: #2365aa;cursor: pointer;}

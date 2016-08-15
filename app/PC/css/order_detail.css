@@ -1,0 +1,12 @@
+.nav_content .account_current .order_message{background:url(../images/order_message_icon.png) no-repeat;}
+.order_new,.order_service{width:928px;height:296px;border:1px solid #dedede;}
+.order_new_head,.order_service_head{height:30px;background:#f9f9f9;}
+.order_new_head span{float:left;margin-left:20px;margin-top:4px;}
+.order_new_head .order_cancel{float:right;color:#1760ad;width:170px;height:30px;line-height:30px;}
+.order_new_content,.order_new_content{padding:25px 30px;}
+.order_new_content ul,.order_new_content ul{width:432px;float:left;}
+.order_new_content ul li,.order_new_content ul li{height:28px;}
+.order_new_content li span{width:100px;display:inline-block;text-align:right;color:#959595;}
+.order_service{margin-top:20px;height:236px;}
+.order_service_head{padding-left:20px;width:908px;line-height:30px;}
+.order_new_content{overflow: hidden;}

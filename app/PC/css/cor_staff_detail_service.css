@@ -1,0 +1,12 @@
+.nav_content .account_current .corporation_staff{background:url(../images/corpor_staffs_bg.png) no-repeat;}
+.staff_information_ss{border:1px solid #dddddd;}
+.staff_information_ss{height:244px;}
+.staff_information_ss .staff_information_heads{height:30px;width:908px;padding-left:20px;background:#f9f9f9;line-height:30px;}
+.staff_int_content{padding:25px 30px;}
+.staff_int_content ul{width:432px;float:left;}
+.staff_int_content ul li{height:26px;}
+.staff_int_content li span{width:100px;color:#b7b7b7;display:inline-block;text-align:right;}
+.staff_int_content li em{width:10px;height:13px;background:url(../images/staff_master.png) no-repeat;display:inline-block;}
+.staff_int_content li .staff_master{width:50px;color:#fea700;}
+.staff_int_content .revise_int{width:128px;height:30px;line-height:30px;text-align:center;color:#fff;margin-top:10px;margin-left:5px;}
+.staff_detail_ss{overflow: hidden;}

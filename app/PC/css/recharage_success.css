@@ -1,0 +1,9 @@
+.success_remark{height:24px;line-height:24px;font-size:20px;}
+.success_remark em{width:24px;height:24px;display:inline-block;background: url(../images/prompt_icon_01.png) no-repeat;vertical-align: middle;margin-top: -2px;margin-right:10px;}
+.direct_jump{width:90px;height:24px;background: #8da2b5;text-align:center;line-height:24px;font-size:14px;float:right;margin-right:245px;}
+.success_tab{margin-top: 30px;border-top:1px solid #dddddd;border-right:1px solid #dddddd;}
+.success_tab li{border-bottom: 1px solid #ddd;}
+.success_tab li.success_title{background:#f9f9f9;}
+.success_tab li span{float:left;width:184px;height:34px;line-height:34px;text-align:center;border-left:1px solid #ddd;}
+.success_tab li span:first-child{color:#2165ac;}
+.success_tab li.success_title span:first-child{color:#000;}

@@ -1,0 +1,20 @@
+/* usercar */
+.nav_content li .corporation_staff{ background-image:url(../images/corporation_staff.png);}
+
+.recharge_way{height: 30px;border-bottom: 2px solid #eaeff5;margin-bottom: 8px;}
+.recharge_way li{float: left;width: 310px;height: 20px;text-align: center;}
+.recharge_way span{display: inline-block;height: 100%;padding-left: 28px;font-size: 16px; cursor: pointer;}
+.way_online{border-right: 1px solid #e7e7e7;}
+.way_online span{ background: url("../images/usecar_car.png") no-repeat;}
+.way_transfer span{ background: url("../images/usecar_phone.png") no-repeat;}
+.way_QT{ position:relative; color: #fda714;}
+.way_QT:after{content: "";position: absolute;left: 0;bottom: -12px;width: 310px;height: 8px;background: url("../images/recharge_ wayBg.png") no-repeat;}
+.way_QT span{background: url("../images/usecar_phoneT.png") no-repeat;}
+
+.usecar_tip{ font-size: 20px; line-height: 58px;}
+.usecar_callBox{border: 1px solid #dcdcdc;padding: 38px 40px 44px;}
+.usecar_callBox em{display: inline-block;width: 40px;height: 40px;border: 1px solid #fda714;border-radius: 50%;background: url("../images/usecar_call.png") no-repeat center center;margin-bottom: -16px;}
+.usecar_callBox span{display: inline-block;font-size: 16px;margin-left: 20px;}
+
+
+

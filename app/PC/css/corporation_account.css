@@ -1,0 +1,25 @@
+.nav_content li .corporation_staff{width:17px;height:15px;background:url(../images/corporation_staff.png) no-repeat;}
+.nav_content li .account_message{width:17px;height:15px;background:url(../images/accounts_messgae.png) no-repeat;}
+.account_content .account_bank{font-size:20px;height:40px;border-bottom: 2px solid #ebeef5;line-height:40px;}
+.account_bank span{color:#8a8a8a;font-size:14px;}
+.account_message{display: flex;}
+.message_line{margin-top:20px;margin-bottom: 20px;}
+.message_line li{width:306px;height:140px;float:left;background:#7bc1db;}
+.message_line li.account_staff{border-radius:4px 0 0 4px;}
+.message_line li.account_remain{margin:0 6px;background:#ffbe46;}
+.message_line li.account_total{background:#f47564;border-radius:0 4px 4px 0;}
+.account_staff .bank_message,.account_remain .usable_remain,.account_total .remain_money{float: left;color:#fff;font-family: '微软雅黑';margin-left:20px;margin-top:50px;font-size:18px;}
+.bank_message span,.usable_remain span,.remain_money span{font-size:30px;}
+.account_staff em,.account_remain em,.account_total em{float:right;margin-top:50px;margin-right:20px;}
+.account_staff em{width:48px;height:38px;background:url(../images/staff_bg_03.jpg) no-repeat;}
+.account_remain em{width:45px;height:45px;background:url(../images/remainer_bg_03.jpg) no-repeat;}
+.account_total em{width:50px;height:40px;background:url(../images/add_bg_03.jpg) no-repeat;}
+.account_appoint{height:280px;border:1px solid #dcdcdc;}
+.account_appoint em.account_accapt{width:306px;height:280px;background:url(../images/appointment_bg_03.jpg) no-repeat;float:left;}
+.account_appoint .appoint_line{float:right;width:622px;}
+.appoint_line li.appoint_phone{position:relative;font-size:20px;width:422px;padding-left:200px;height:108px;padding-top:50px;border-bottom: 1px solid #dcdcdc;}
+.appoint_phone span{color:#ffa903;font-size:30px;}
+.appoint_phone p{margin-bottom: 10px;}
+.appoint_phone em{width:56px;height:56px;background:url(../images/appoint_bg.png) no-repeat;position:absolute;top:50px;left:130px;}
+.public_online{width:566px;height:58px;margin:30px auto;line-height:58px;font-size:20px;}
+.public_online em{width:26px;height:26px;background:url(../images/oneline_appoint_bg.png) no-repeat;display:inline-block;vertical-align: middle;margin-top:-4px;}
